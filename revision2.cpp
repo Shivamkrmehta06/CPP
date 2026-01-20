@@ -1,4 +1,4 @@
-#include <iostream>
+/* #include <iostream>
 using namespace std;
 
 vector<int> merge(vector<int> &nums1,vector<int> &nums2){
@@ -57,5 +57,16 @@ int main() {
     else cout<<"Odd"<<endl;
     double res = median(ans);
     cout<<"Median: "<<res<<endl;
+    return 0;
+}
+ */
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    for(int i = 1;i<=10;i++){
+        cout<<"ANIKET MEHTA"<<endl;
+    }
     return 0;
 }

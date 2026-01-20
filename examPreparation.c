@@ -600,11 +600,172 @@ int main(){
     return 0;
 }*/
 
+// #include<stdio.h>
+// #include<stdlib.h>
+// #include<stdbool.h>
+// typedef struct Stack{
+//     int *arr;
+//     int size;
+//     int top;
+// }Stack;
 
-using namespace std;
-int main(){
-    for (int i = 0;i<100000;i++){
-        cout<<"Nihal Kapoor ";
+// Stack* initialize(int size){
+//     Stack* s = (Stack*)malloc(sizeof(Stack));
+//     s->size = size;
+//     s->top = -1;
+//     s->arr = (int*)malloc(size*sizeof(int));
+//     return s;
+// }
+
+// void push(Stack** s,int data){
+//     if((*s)->size - (*s)->top > 1){
+//         (*s)->top ++;
+//         (*s)->arr[(*s)->top] = data;
+//     }
+//     else{
+//         printf("Stack Overflow\n");
+//     }
+// }
+
+// void pop(Stack **s){
+//     if((*s)->top >= 0){
+//         (*s)->top--;
+//     }
+//     else{
+//         printf("Stack Underflow\n");
+//     }
+// }
+
+// int peek(Stack** s){
+//     if((*s)->top >= 0){
+//         return (*s)->arr[(*s)->top];
+//     }
+//     printf("Stack is empty\n");
+//     return -1;
+// }
+
+// bool isEmpty(Stack** s){
+//     if((*s)->top == -1){
+//         return true;
+//     }
+//     else{
+//         return false;
+//     }
+// }
+
+// int main(){
+    
+// }
+
+#include<stdio.h>
+#include<stdlib.h>
+#include<stdbool.h>
+
+typedef struct Queue{
+    int *arr;
+    int front;
+    int rear;
+    int size;
+}Queue;
+
+Queue* initialize(int size){
+    Queue* q = (Queue*)malloc(sizeof(Queue));
+    q->size = size;
+    q->front = 0;
+    q->rear = 0;
+    q->arr = (int*)malloc(size*sizeof(int));
+    return q;
+}
+
+bool isEmpty(Queue** q){
+    if((*q)->rear == (*q)->front){
+        return true;
     }
+    else{
+        return false;
+    }
+}
+
+void enqueue(Queue** q,int data){
+    if((*q)->rear == (*q)->size){
+        printf("Queue is Full\n");
+    }
+    else{
+        (*q)->arr[(*q)->rear] = data;
+        (*q)->rear++;
+    }
+}
+
+int dequeue(Queue** q){
+    if((*q)->front == (*q)->rear){
+        return -1;
+    }
+    else{
+        int ans = (*q)->arr[(*q)->front];
+        (*q)->arr[(*q)->front] = -1;
+        (*q)->front++;
+        if((*q)->front == (*q)->rear){
+            (*q)->front = 0;
+            (*q)->rear = 0;
+        }
+        return ans;
+    }
+}
+
+int getFront(Queue** q){
+    if((*q)->rear == (*q)->front){
+        printf("Queue is Empty\n");
+        return -1;
+    }
+    else{
+        return (*q)->arr[(*q)->front];
+    }
+}
+
+int getRear(Queue** q){
+    if((*q)->rear > (*q)->size){
+        printf("Out of Range\n");
+        return -1;
+    }
+    else{
+        return (*q)->arr[(*q)->rear];
+    }
+}
+
+bool isFull(Queue** q){
+    if((*q)->rear == (*q)->size){
+        return true;
+    }
+    else{
+        return false;
+    }
+}
+
+void display(Queue* q){
+    if(q->rear == q->front){
+        printf("Queue is Empty\n");
+        return;
+    }
+    for(int i = q->front;i<q->rear;i++){
+        printf("%d ",q->arr[i]);
+    }
+    printf("\n");
+}
+
+int main(){
+    Queue* q1 = initialize(3);
+    enqueue(&q1,10);
+    enqueue(&q1,20);
+    enqueue(&q1,30);
+
+    display(q1);
+
+    dequeue(&q1);
+
+    display(q1);
+
+    int front = getFront(&q1);
+    int rear = getRear(&q1);
+    printf("Front:%d\nRear:%d\n",front,rear);
     return 0;
 }
