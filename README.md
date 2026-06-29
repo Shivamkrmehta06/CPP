@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shivamkrmehta06/CPP/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivamkrmehta06/CPP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamkrmehta06/CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivamkrmehta06/CPP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamkrmehta06/CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
