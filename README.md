@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivamkrmehta06/CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivamkrmehta06/CPP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shivamkrmehta06/CPP/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Binary Tree
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shivamkrmehta06/CPP/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivamkrmehta06/CPP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamkrmehta06/CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shivamkrmehta06/CPP/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivamkrmehta06/CPP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shivamkrmehta06/CPP/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## String
 |  |
 | ------- |
