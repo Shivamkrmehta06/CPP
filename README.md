@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivamkrmehta06/CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamkrmehta06/CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shivamkrmehta06/CPP/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Tree
 |  |
@@ -74,10 +75,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamkrmehta06/CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamkrmehta06/CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Shivamkrmehta06/CPP/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shivamkrmehta06/CPP/tree/master/0700-search-in-a-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamkrmehta06/CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
