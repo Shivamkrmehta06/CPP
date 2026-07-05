@@ -1,13 +1,18 @@
 class Solution {
 public:
     vector<int> runningSum(vector<int>& nums) {
-        vector<int> ans;
+        stack<int> s;
+        for(int i=nums.size()-1;i>=0;i--){
+            s.push(nums[i]);
+        }
         int sum = 0;
         for(int i = 0;i<nums.size();i++){
-            sum += nums[i];
-            ans.push_back(sum);
+            int x = s.top();
+            sum += x;
+            nums[i] = sum;
+            s.pop();
         }
-        for(auto x:ans) cout<<x<<" ";
-        return ans;
+        for(auto x:nums) cout<<x<<" ";
+        return nums;
     }
 };
