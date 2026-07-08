@@ -21,9 +21,6 @@ private:
     }
 public:
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        vector<int> inorder = preorder;
-        sort(inorder.begin(),inorder.end());
-        for(auto x:inorder) cout<<x<<" ";
         int i = 0;
         TreeNode* ans = solve(preorder,INT_MIN,INT_MAX,i);
         return ans;
