@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Shivamkrmehta06/CPP/tree/master/0383-ransom-note) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shivamkrmehta06/CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivamkrmehta06/CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivamkrmehta06/CPP/tree/master/1331-rank-transform-of-an-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Shivamkrmehta06/CPP/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/Shivamkrmehta06/CPP/tree/master/0520-detect-capital) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamkrmehta06/CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/Shivamkrmehta06/CPP/tree/master/1528-shuffle-string) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Shivamkrmehta06/CPP/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/Shivamkrmehta06/CPP/tree/master/1512-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shivamkrmehta06/CPP/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Prefix Sum
