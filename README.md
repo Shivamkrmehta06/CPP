@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamkrmehta06/CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/Shivamkrmehta06/CPP/tree/master/1512-number-of-good-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shivamkrmehta06/CPP/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shivamkrmehta06/CPP/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Tree
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivamkrmehta06/CPP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamkrmehta06/CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shivamkrmehta06/CPP/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shivamkrmehta06/CPP/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Shivamkrmehta06/CPP/tree/master/1512-number-of-good-pairs) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shivamkrmehta06/CPP/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
