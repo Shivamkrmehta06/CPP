@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Shivamkrmehta06/CPP/tree/master/0383-ransom-note) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shivamkrmehta06/CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivamkrmehta06/CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shivamkrmehta06/CPP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivamkrmehta06/CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivamkrmehta06/CPP/tree/master/1331-rank-transform-of-an-array) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shivamkrmehta06/CPP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivamkrmehta06/CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Shivamkrmehta06/CPP/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/Shivamkrmehta06/CPP/tree/master/1512-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shivamkrmehta06/CPP/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/Shivamkrmehta06/CPP/tree/master/1382-balance-a-binary-search-tree) |
 ## Monotonic Stack
 |  |
@@ -212,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shivamkrmehta06/CPP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -221,4 +227,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
