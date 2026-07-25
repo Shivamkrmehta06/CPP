@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamkrmehta06/CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shivamkrmehta06/CPP/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shivamkrmehta06/CPP/tree/master/1512-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Shivamkrmehta06/CPP/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shivamkrmehta06/CPP/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shivamkrmehta06/CPP/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Tree
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shivamkrmehta06/CPP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivamkrmehta06/CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivamkrmehta06/CPP/tree/master/1331-rank-transform-of-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Shivamkrmehta06/CPP/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivamkrmehta06/CPP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shivamkrmehta06/CPP/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Shivamkrmehta06/CPP/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Shivamkrmehta06/CPP/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Shivamkrmehta06/CPP/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Shivamkrmehta06/CPP/tree/master/1528-shuffle-string) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Shivamkrmehta06/CPP/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shivamkrmehta06/CPP/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivamkrmehta06/CPP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamkrmehta06/CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
