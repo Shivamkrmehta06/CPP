@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Shivamkrmehta06/CPP/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shivamkrmehta06/CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shivamkrmehta06/CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivamkrmehta06/CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivamkrmehta06/CPP/tree/master/1331-rank-transform-of-an-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Shivamkrmehta06/CPP/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shivamkrmehta06/CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Shivamkrmehta06/CPP/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Shivamkrmehta06/CPP/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/Shivamkrmehta06/CPP/tree/master/0680-valid-palindrome-ii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Shivamkrmehta06/CPP/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shivamkrmehta06/CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shivamkrmehta06/CPP/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shivamkrmehta06/CPP/tree/master/1512-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shivamkrmehta06/CPP/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -257,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Shivamkrmehta06/CPP/tree/master/0392-is-subsequence) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shivamkrmehta06/CPP/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
