@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Shivamkrmehta06/CPP/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivamkrmehta06/CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/Shivamkrmehta06/CPP/tree/master/1046-last-stone-weight) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shivamkrmehta06/CPP/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivamkrmehta06/CPP/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shivamkrmehta06/CPP/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shivamkrmehta06/CPP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1046-last-stone-weight](https://github.com/Shivamkrmehta06/CPP/tree/master/1046-last-stone-weight) |
 ## Matrix
 |  |
 | ------- |
