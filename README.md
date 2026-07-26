@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamkrmehta06/CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/Shivamkrmehta06/CPP/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shivamkrmehta06/CPP/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1678-goal-parser-interpretation](https://github.com/Shivamkrmehta06/CPP/tree/master/1678-goal-parser-interpretation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamkrmehta06/CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search Tree
 |  |
