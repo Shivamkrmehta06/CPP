@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivamkrmehta06/CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shivamkrmehta06/CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0682-baseball-game](https://github.com/Shivamkrmehta06/CPP/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Shivamkrmehta06/CPP/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivamkrmehta06/CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shivamkrmehta06/CPP/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Shivamkrmehta06/CPP/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/Shivamkrmehta06/CPP/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Shivamkrmehta06/CPP/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamkrmehta06/CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/Shivamkrmehta06/CPP/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shivamkrmehta06/CPP/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shivamkrmehta06/CPP/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shivamkrmehta06/CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Shivamkrmehta06/CPP/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Shivamkrmehta06/CPP/tree/master/0844-backspace-string-compare) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -270,4 +273,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Shivamkrmehta06/CPP/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Shivamkrmehta06/CPP/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
