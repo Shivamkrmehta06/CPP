@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivamkrmehta06/CPP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shivamkrmehta06/CPP/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Shivamkrmehta06/CPP/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivamkrmehta06/CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shivamkrmehta06/CPP/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Tree
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shivamkrmehta06/CPP/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Shivamkrmehta06/CPP/tree/master/1678-goal-parser-interpretation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamkrmehta06/CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivamkrmehta06/CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Shivamkrmehta06/CPP/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Shivamkrmehta06/CPP/tree/master/0844-backspace-string-compare) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivamkrmehta06/CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
