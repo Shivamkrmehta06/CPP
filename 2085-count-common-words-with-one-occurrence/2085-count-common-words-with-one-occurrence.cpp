@@ -13,7 +13,6 @@ public:
         for(auto x:ump2){
             if(ump1.count(x.first)&&x.second==1&&ump1[x.first]==1) count++; 
         }
-        cout<<count<<endl;
         return count; 
     }
 };
