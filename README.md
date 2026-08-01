@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shivamkrmehta06/CPP/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shivamkrmehta06/CPP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0486-predict-the-winner](https://github.com/Shivamkrmehta06/CPP/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivamkrmehta06/CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Shivamkrmehta06/CPP/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shivamkrmehta06/CPP/tree/master/0746-min-cost-climbing-stairs) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivamkrmehta06/CPP/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Shivamkrmehta06/CPP/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivamkrmehta06/CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shivamkrmehta06/CPP/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Shivamkrmehta06/CPP/tree/master/1512-number-of-good-pairs) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivamkrmehta06/CPP/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Shivamkrmehta06/CPP/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Shivamkrmehta06/CPP/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shivamkrmehta06/CPP/tree/master/0746-min-cost-climbing-stairs) |
 ## Queue
 |  |
@@ -322,4 +325,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-two-out-of-three](https://github.com/Shivamkrmehta06/CPP/tree/master/2032-two-out-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Shivamkrmehta06/CPP/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Shivamkrmehta06/CPP/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
