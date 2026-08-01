@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shivamkrmehta06/CPP/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Shivamkrmehta06/CPP/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shivamkrmehta06/CPP/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Shivamkrmehta06/CPP/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Tree
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shivamkrmehta06/CPP/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamkrmehta06/CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shivamkrmehta06/CPP/tree/master/2085-count-common-words-with-one-occurrence) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Shivamkrmehta06/CPP/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivamkrmehta06/CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search Tree
 |  |
