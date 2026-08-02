@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Shivamkrmehta06/CPP/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shivamkrmehta06/CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/Shivamkrmehta06/CPP/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/Shivamkrmehta06/CPP/tree/master/1002-find-common-characters) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivamkrmehta06/CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shivamkrmehta06/CPP/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Shivamkrmehta06/CPP/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivamkrmehta06/CPP/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Shivamkrmehta06/CPP/tree/master/0877-stone-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shivamkrmehta06/CPP/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Shivamkrmehta06/CPP/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivamkrmehta06/CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shivamkrmehta06/CPP/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Shivamkrmehta06/CPP/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shivamkrmehta06/CPP/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Shivamkrmehta06/CPP/tree/master/0877-stone-game) |
 ## Queue
 |  |
 | ------- |
@@ -335,4 +338,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shivamkrmehta06/CPP/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Shivamkrmehta06/CPP/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
