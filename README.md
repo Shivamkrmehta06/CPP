@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shivamkrmehta06/CPP/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shivamkrmehta06/CPP/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shivamkrmehta06/CPP/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shivamkrmehta06/CPP/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shivamkrmehta06/CPP/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3527-find-the-most-common-response](https://github.com/Shivamkrmehta06/CPP/tree/master/3527-find-the-most-common-response) |
 ## Tree
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamkrmehta06/CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shivamkrmehta06/CPP/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shivamkrmehta06/CPP/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shivamkrmehta06/CPP/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivamkrmehta06/CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3527-find-the-most-common-response](https://github.com/Shivamkrmehta06/CPP/tree/master/3527-find-the-most-common-response) |
 ## Binary Search Tree
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shivamkrmehta06/CPP/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Shivamkrmehta06/CPP/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shivamkrmehta06/CPP/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shivamkrmehta06/CPP/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3527-find-the-most-common-response](https://github.com/Shivamkrmehta06/CPP/tree/master/3527-find-the-most-common-response) |
 ## Prefix Sum
 |  |
