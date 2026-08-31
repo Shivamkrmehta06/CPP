@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/Shivamkrmehta06/CPP/tree/master/1002-find-common-characters) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivamkrmehta06/CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivamkrmehta06/CPP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Shivamkrmehta06/CPP/tree/master/1046-last-stone-weight) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shivamkrmehta06/CPP/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivamkrmehta06/CPP/tree/master/1331-rank-transform-of-an-array) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Shivamkrmehta06/CPP/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivamkrmehta06/CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivamkrmehta06/CPP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shivamkrmehta06/CPP/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Shivamkrmehta06/CPP/tree/master/1382-balance-a-binary-search-tree) |
 ## Sliding Window
