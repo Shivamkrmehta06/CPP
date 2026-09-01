@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shivamkrmehta06/CPP/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Shivamkrmehta06/CPP/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/Shivamkrmehta06/CPP/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shivamkrmehta06/CPP/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivamkrmehta06/CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shivamkrmehta06/CPP/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Shivamkrmehta06/CPP/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivamkrmehta06/CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Shivamkrmehta06/CPP/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shivamkrmehta06/CPP/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shivamkrmehta06/CPP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shivamkrmehta06/CPP/tree/master/2965-find-missing-and-repeated-values) |
 ## Quickselect
