@@ -11,7 +11,6 @@ class Solution {
             }
             ans=Math.max(ans,right-left+1);
         }
-        System.out.println(ans);
         return ans;
     }
 }
