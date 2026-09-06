@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Shivamkrmehta06/CPP/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Shivamkrmehta06/CPP/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0896-monotonic-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/Shivamkrmehta06/CPP/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivamkrmehta06/CPP/tree/master/1004-max-consecutive-ones-iii) |
