@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shivamkrmehta06/CPP/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivamkrmehta06/CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shivamkrmehta06/CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/Shivamkrmehta06/CPP/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shivamkrmehta06/CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivamkrmehta06/CPP/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Shivamkrmehta06/CPP/tree/master/0682-baseball-game) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Shivamkrmehta06/CPP/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shivamkrmehta06/CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivamkrmehta06/CPP/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
