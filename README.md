@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shivamkrmehta06/CPP/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivamkrmehta06/CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivamkrmehta06/CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shivamkrmehta06/CPP/tree/master/0217-contains-duplicate) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivamkrmehta06/CPP/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Shivamkrmehta06/CPP/tree/master/0486-predict-the-winner) |
 | [0593-valid-square](https://github.com/Shivamkrmehta06/CPP/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivamkrmehta06/CPP/tree/master/0628-maximum-product-of-three-numbers) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shivamkrmehta06/CPP/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shivamkrmehta06/CPP/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivamkrmehta06/CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shivamkrmehta06/CPP/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shivamkrmehta06/CPP/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Shivamkrmehta06/CPP/tree/master/0392-is-subsequence) |
