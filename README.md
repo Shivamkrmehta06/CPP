@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shivamkrmehta06/CPP/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shivamkrmehta06/CPP/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivamkrmehta06/CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivamkrmehta06/CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shivamkrmehta06/CPP/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivamkrmehta06/CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivamkrmehta06/CPP/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Shivamkrmehta06/CPP/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivamkrmehta06/CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Shivamkrmehta06/CPP/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Shivamkrmehta06/CPP/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shivamkrmehta06/CPP/tree/master/0746-min-cost-climbing-stairs) |
