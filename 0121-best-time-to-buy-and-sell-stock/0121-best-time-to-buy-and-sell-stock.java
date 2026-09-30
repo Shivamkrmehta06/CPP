@@ -11,7 +11,6 @@ class Solution {
         for(Integer x:ans){
             fans=Math.max(fans,x);
         };
-        System.out.println(fans);
         return fans;
     }
 }
