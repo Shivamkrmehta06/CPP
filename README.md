@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Shivamkrmehta06/CPP/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivamkrmehta06/CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shivamkrmehta06/CPP/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shivamkrmehta06/CPP/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Tree
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shivamkrmehta06/CPP/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3527-find-the-most-common-response](https://github.com/Shivamkrmehta06/CPP/tree/master/3527-find-the-most-common-response) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shivamkrmehta06/CPP/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shivamkrmehta06/CPP/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/Shivamkrmehta06/CPP/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Shivamkrmehta06/CPP/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Shivamkrmehta06/CPP/tree/master/1382-balance-a-binary-search-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivamkrmehta06/CPP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shivamkrmehta06/CPP/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shivamkrmehta06/CPP/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
