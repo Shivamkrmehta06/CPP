@@ -9,7 +9,6 @@ class Solution {
                 dfs(i,isConnected,vis);
             }
         }
-        System.out.println(count);
         return count;
     }
     void dfs(int src,int[][] adj,boolean[] vis){
