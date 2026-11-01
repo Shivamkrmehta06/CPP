@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shivamkrmehta06/CPP/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shivamkrmehta06/CPP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Shivamkrmehta06/CPP/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Shivamkrmehta06/CPP/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0540-single-element-in-a-sorted-array) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shivamkrmehta06/CPP/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shivamkrmehta06/CPP/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Shivamkrmehta06/CPP/tree/master/0486-predict-the-winner) |
 | [0593-valid-square](https://github.com/Shivamkrmehta06/CPP/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivamkrmehta06/CPP/tree/master/0628-maximum-product-of-three-numbers) |
