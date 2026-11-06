@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivamkrmehta06/CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Shivamkrmehta06/CPP/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/Shivamkrmehta06/CPP/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Shivamkrmehta06/CPP/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Shivamkrmehta06/CPP/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivamkrmehta06/CPP/tree/master/0387-first-unique-character-in-a-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shivamkrmehta06/CPP/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Shivamkrmehta06/CPP/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shivamkrmehta06/CPP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivamkrmehta06/CPP/tree/master/0628-maximum-product-of-three-numbers) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shivamkrmehta06/CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shivamkrmehta06/CPP/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Shivamkrmehta06/CPP/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shivamkrmehta06/CPP/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shivamkrmehta06/CPP/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0347-top-k-frequent-elements) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Shivamkrmehta06/CPP/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Shivamkrmehta06/CPP/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivamkrmehta06/CPP/tree/master/0387-first-unique-character-in-a-string) |
@@ -571,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shivamkrmehta06/CPP/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Shivamkrmehta06/CPP/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shivamkrmehta06/CPP/tree/master/1971-find-if-path-exists-in-graph) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Shivamkrmehta06/CPP/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
