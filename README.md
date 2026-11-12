@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivamkrmehta06/CPP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Shivamkrmehta06/CPP/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shivamkrmehta06/CPP/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Shivamkrmehta06/CPP/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shivamkrmehta06/CPP/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivamkrmehta06/CPP/tree/master/1331-rank-transform-of-an-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Shivamkrmehta06/CPP/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/Shivamkrmehta06/CPP/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivamkrmehta06/CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shivamkrmehta06/CPP/tree/master/0877-stone-game) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Shivamkrmehta06/CPP/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shivamkrmehta06/CPP/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1406-stone-game-iii](https://github.com/Shivamkrmehta06/CPP/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Shivamkrmehta06/CPP/tree/master/1512-number-of-good-pairs) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/Shivamkrmehta06/CPP/tree/master/0593-valid-square) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Shivamkrmehta06/CPP/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Database
 |  |
 | ------- |
