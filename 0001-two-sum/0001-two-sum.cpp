@@ -1,17 +1,14 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        map<int,int> mp;
-        vector<int> ans;
-        int need=0;
-        for(int i=0;i<nums.size();i++){
-            need=target-nums[i];
-            if(mp.find(need)!=mp.end()){
-                return {mp[need],i};
+        unordered_map<int,int> ump;
+        for(int i = 0;i<nums.size();i++){
+            int need = target-nums[i];
+            if(ump.find(need)!=ump.end()){
+                return {ump[need],i};
             }
-            mp[nums[i]]=i;
+            ump[nums[i]]=i;
         }
-        for(auto x:ans) cout<<x<<" ";
-        return {};
+        return {-1,-1};
     }
 };
