@@ -1,32 +1,29 @@
 class Solution {
 private:
-    void solve(vector<int> &ans,unordered_map<int,int> &ump,int &k,int &maxi,int &maxfreq){
-        if(k==0){
-            return;
-        }
-        maxfreq = INT_MIN;
-        for(auto i:ump){
-            if(i.second>maxfreq){
-                maxfreq = i.second;
-                maxi = i.first;
+    void solve(map<int,int> &mp,int &k,vector<int> &ans,int &maxi,int &max_freq){
+        if(k==0) return;
+        max_freq=INT_MIN;
+        for(auto x:mp){
+            if(x.second>max_freq){
+                max_freq=x.second;
+                maxi=x.first;
             }
         }
         ans.push_back(maxi);
-        ump.erase(maxi);
+        mp.erase(maxi);
         k--;
-        solve(ans,ump,k,maxi,maxfreq);
+        solve(mp,k,ans,maxi,max_freq);
     }
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        unordered_map<int,int> ump;
-        for(int i = 0;i<nums.size();i++){
-            ump[nums[i]]++;
-        }
         vector<int> ans;
+        map<int,int> mp;
+        for(int i=0;i<nums.size();i++){
+            mp[nums[i]]++;
+        }
+        int max_freq=INT_MIN;
         int maxi;
-        int maxfreq = INT_MIN;
-        for(auto i:ump) cout<<i.first<<"->"<<i.second<<endl;
-        solve(ans,ump,k,maxi,maxfreq);
+        solve(mp,k,ans,maxi,max_freq);
         return ans;
     }
 };
