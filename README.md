@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivamkrmehta06/CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shivamkrmehta06/CPP/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Shivamkrmehta06/CPP/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Shivamkrmehta06/CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Shivamkrmehta06/CPP/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shivamkrmehta06/CPP/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shivamkrmehta06/CPP/tree/master/0242-valid-anagram) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivamkrmehta06/CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivamkrmehta06/CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Shivamkrmehta06/CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivamkrmehta06/CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shivamkrmehta06/CPP/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivamkrmehta06/CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shivamkrmehta06/CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/Shivamkrmehta06/CPP/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shivamkrmehta06/CPP/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
