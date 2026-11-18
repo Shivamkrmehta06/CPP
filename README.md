@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shivamkrmehta06/CPP/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shivamkrmehta06/CPP/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shivamkrmehta06/CPP/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Shivamkrmehta06/CPP/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shivamkrmehta06/CPP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shivamkrmehta06/CPP/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivamkrmehta06/CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Shivamkrmehta06/CPP/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Shivamkrmehta06/CPP/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivamkrmehta06/CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shivamkrmehta06/CPP/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivamkrmehta06/CPP/tree/master/1004-max-consecutive-ones-iii) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Shivamkrmehta06/CPP/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shivamkrmehta06/CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivamkrmehta06/CPP/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Shivamkrmehta06/CPP/tree/master/0303-range-sum-query-immutable) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Shivamkrmehta06/CPP/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Newton's Method
 |  |
