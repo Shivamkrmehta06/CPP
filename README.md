@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shivamkrmehta06/CPP/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamkrmehta06/CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shivamkrmehta06/CPP/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Shivamkrmehta06/CPP/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shivamkrmehta06/CPP/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shivamkrmehta06/CPP/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shivamkrmehta06/CPP/tree/master/3498-reverse-degree-of-a-string) |
