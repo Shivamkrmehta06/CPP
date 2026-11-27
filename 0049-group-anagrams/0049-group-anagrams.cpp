@@ -8,7 +8,7 @@ public:
             sort(temp.begin(),temp.end());
             ump[temp].push_back(strs[i]);
         }
-        for(auto x:ump) {
+        for(auto x:ump){
             ans.push_back(x.second);
         }
         return ans;
